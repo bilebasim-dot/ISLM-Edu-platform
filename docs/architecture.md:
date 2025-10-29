@@ -1,0 +1,15 @@
+# Technical Architecture
+
+## Smart Contract Layer
+- Credential issuance system
+- ELP compliance checks
+- Token reward mechanisms
+
+## Frontend Layer  
+- Mobile-first learning interface
+- Wallet integration
+- Course marketplace
+
+## Oracle Integration
+- Chainlink for external verification
+- Cross-chain credential portability
